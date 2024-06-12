@@ -1,0 +1,1 @@
+SELECT * FROM db_jean.tbl_clientes;
